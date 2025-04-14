@@ -3,7 +3,7 @@
         <nav class="navbar bg-dark-subtle">
             <div class="container-fluid">
                 <div class="navbar-brand d-flex align-items-center">    
-                    <img src="/images/CubeIcon.png" alt="" width="50" height="50" class="d-inline-block align-text-center mx-2">
+                    <img src="@/assets/CubeIcon.png" alt="" width="50" height="50" class="d-inline-block align-text-center mx-2">
                     <h1 class="text-center mx-2 mb-0">Cube Timer</h1>
                 </div>
                 <div class="nav-item">
